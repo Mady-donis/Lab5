@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\bin\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.exe
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\bin\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.deps.json
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\bin\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\bin\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.dll
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\bin\Debug\net6.0\ref\Lab1_ED1_MadyDonis_1015121.dll
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\bin\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.pdb
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.dll
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\ref\Lab1_ED1_MadyDonis_1015121.dll
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.pdb
+C:\Users\Usuario\Documents\GitHub\Lab5\Lab1_ED1_MadyDonis_1015121\Lab1_ED1_MadyDonis_1015121\obj\Debug\net6.0\Lab1_ED1_MadyDonis_1015121.genruntimeconfig.cache
