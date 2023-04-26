@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\GitHub\\Lab5\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121.csproj",
       "projectName": "Lab1_ED1_MadyDonis_1015121",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Lab5\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Lab5\\Lab1_ED1_MadyDonis_1015121\\Lab1_ED1_MadyDonis_1015121\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
