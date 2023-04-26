@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab2_ED1_MadyDonis_1015121/1.0.0": {
+        "runtime": {
+          "Lab2_ED1_MadyDonis_1015121.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2_ED1_MadyDonis_1015121/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
