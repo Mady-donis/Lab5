@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\bin\Debug\net6.0\lab3_.exe
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\bin\Debug\net6.0\lab3_.deps.json
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\bin\Debug\net6.0\lab3_.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\bin\Debug\net6.0\lab3_.dll
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\bin\Debug\net6.0\ref\lab3_.dll
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\bin\Debug\net6.0\lab3_.pdb
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\lab3_.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\lab3_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\lab3_.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\lab3_.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\lab3_.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\lab3_.dll
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\ref\lab3_.dll
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\lab3_.pdb
+C:\Users\Usuario\Documents\GitHub\Lab5\lab3_\lab3_\obj\Debug\net6.0\lab3_.genruntimeconfig.cache
